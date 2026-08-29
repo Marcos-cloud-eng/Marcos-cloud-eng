@@ -1,6 +1,6 @@
 # Hi, I'm Marcos França 👋
 
-## Cloud Engineering Student ☁️
+## Cloud Engineer ☁️
 
 I am currently building practical experience through hands-on laboratories, technical documentation, certifications and automation projects.
 
